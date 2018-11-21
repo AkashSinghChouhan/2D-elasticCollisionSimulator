@@ -18,6 +18,15 @@
     <ClInclude Include="GUI.h">
       <Filter>Source Files</Filter>
     </ClInclude>
+    <ClInclude Include="Widget.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="shape.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Windows.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">
